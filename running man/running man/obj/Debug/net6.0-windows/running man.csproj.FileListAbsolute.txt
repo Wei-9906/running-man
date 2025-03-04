@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\running man\running man\bin\Debug\net6.0-windows\running man.exe
+C:\Users\User\Desktop\running man\running man\bin\Debug\net6.0-windows\running man.deps.json
+C:\Users\User\Desktop\running man\running man\bin\Debug\net6.0-windows\running man.runtimeconfig.json
+C:\Users\User\Desktop\running man\running man\bin\Debug\net6.0-windows\running man.dll
+C:\Users\User\Desktop\running man\running man\bin\Debug\net6.0-windows\running man.pdb
+C:\Users\User\Desktop\running man\running man\obj\Debug\net6.0-windows\running_man.Form1.resources
+C:\Users\User\Desktop\running man\running man\obj\Debug\net6.0-windows\running_man.Properties.Resources.resources
+C:\Users\User\Desktop\running man\running man\obj\Debug\net6.0-windows\running man.csproj.GenerateResource.cache
+C:\Users\User\Desktop\running man\running man\obj\Debug\net6.0-windows\running man.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\running man\running man\obj\Debug\net6.0-windows\running man.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\running man\running man\obj\Debug\net6.0-windows\running man.AssemblyInfo.cs
+C:\Users\User\Desktop\running man\running man\obj\Debug\net6.0-windows\running man.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\running man\running man\obj\Debug\net6.0-windows\running man.dll
+C:\Users\User\Desktop\running man\running man\obj\Debug\net6.0-windows\refint\running man.dll
+C:\Users\User\Desktop\running man\running man\obj\Debug\net6.0-windows\running man.pdb
+C:\Users\User\Desktop\running man\running man\obj\Debug\net6.0-windows\running man.genruntimeconfig.cache
+C:\Users\User\Desktop\running man\running man\obj\Debug\net6.0-windows\ref\running man.dll
